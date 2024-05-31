@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "ZULU CHARLTON S"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Zulu Charlton S"
+description              : &description "Mechanical Engineering(major) & AI & ML Engineering(minor) "
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Kakinada,India"
+  employer         : "Jawaharlal Nehru Technological University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chaltonszulu1@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
