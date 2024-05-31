@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Illustration of combining of combining vision and language modalities]|
-":thumpsup:"I m a third year emgineering student at jawarhalal Nehru Technological University majoring in Mechanical Engineering & a minor of AI & ML engineering
+"🦾:"I m a third year emgineering student at jawarhalal Nehru Technological University majoring in Mechanical Engineering & a minor of AI & ML engineering
 
 "🔥"My research interest"👇"
 
@@ -20,3 +19,6 @@ This paper emphasizes the focus on utilizing the residual or by-products of ener
 
 This design project captures the essence of creating a wearable system with cloud integration, mirroring the functionalities and innovative approach of the Humane AI Pin.
 
+
+
+### "Selected Experience"
