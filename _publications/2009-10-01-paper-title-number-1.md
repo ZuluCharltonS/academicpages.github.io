@@ -1,4 +1,4 @@
----
+ ---
 title: "Harnessing Residual Energy: Innovative Approaches to Converting By-products of Energy Conversion Cycles into Usable Power"
 
 collection: publications
