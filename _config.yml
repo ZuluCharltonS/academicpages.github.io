@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-#  avatar           : "profile.png"
-  name             : "Zulu Charlton S"
-  pronouns         : "him/he"  
-  bio              : "Mechanical Engineer(major),AI & ML Engineer(minor)"
-  location         : "kakinada,India"
-  employer         : "Jawarhalal Nehru Technological University"
-  uri              : # URL
-  email            : "charltonszulu@gmail.org" 
+#  avatar           :  "profile.png"
+   name             :  "Zulu Charlton S"
+   pronouns         :  "him/he"  
+   bio              :  "Mechanical Engineer(major),AI & ML Engineer(minor)"
+   location         :  "kakinada,India"
+   employer         :  "Jawarhalal Nehru Technological University"
+   uri              :  # URL
+   email            :  "charltonszulu@gmail.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
