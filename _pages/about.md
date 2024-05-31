@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-"🦾:"I m a third year emgineering student at jawarhalal Nehru Technological University majoring in Mechanical Engineering & a minor of AI & ML engineering
+"🦾:"I m a third year emgineering student  majoring in Mechanical Engineering & a minor of AI & ML engineering
 
 "🔥"My research interest"👇"
 
