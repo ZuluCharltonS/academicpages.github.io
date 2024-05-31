@@ -12,7 +12,7 @@ title                    : "Zulu Charlton S homepage"
 title_separator          : "-"
 name                     : &name "Zulu Charlton S"
 description              : &description "Mechanical Engineer"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zulucharltons.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,11 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/DSC_0496.JPG"
+  avatar           : "DSC_0496.JPG"
   name             : "Zulu Charlton S"
   pronouns         : "him/he"  
   bio              : "Mechanical Engineer(major),AI & ML Engineer(minor)"
-  location         : "kakianda,India"
+  location         : "kakinada,India"
   employer         : "Jawarhalal Nehru Technological University"
   uri              : # URL
   email            : "charltonszulu@gmail.org" 
